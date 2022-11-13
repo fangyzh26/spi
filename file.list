@@ -1,0 +1,3 @@
+./spi.v
+./tb_spi.v
+
